@@ -30,7 +30,7 @@ git clone https://github.com/archit-p/editable-react-table
 
 ```bash
 npm install
-npm start
+npm run dev
 ```
 
 ### Contributions
